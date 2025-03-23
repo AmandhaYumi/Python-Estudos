@@ -47,3 +47,7 @@ frase = input("Escreva uma frase: ")
 print(f"LETRA MAIUSCULA: {frase.upper()}")
 print(f"letra minusculo: {frase.lower()}")
 print(f"Somente primeira letra em maiusculo: {frase.capitalize()}")
+
+
+
+
